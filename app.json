@@ -1,7 +1,7 @@
 {
-    "name": "SlayerX Music",
+    "name": "Zoya X Assistant",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/e27e233e14eb9f3271885.jpg",
+    "logo": "https://graph.org/file/25eec4a6f9ff531efba20.jpg",
     "keywords": [
     "python3",
     "telegram",
